@@ -4,3 +4,5 @@ Renfe-David
 __pycache__/
 .ipynb_checkpoints/
 .ipynb_checkpoints
+thegurus-opendata-renfe-trips.csv
+thegurus-opendata-renfe-trips.csv.zip
